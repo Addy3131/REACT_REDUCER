@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REACT_REDUCER/static/css/main.e6c13ad2.css",
+    "main.js": "/REACT_REDUCER/static/js/main.7d13c3d2.js",
+    "static/js/453.1332818c.chunk.js": "/REACT_REDUCER/static/js/453.1332818c.chunk.js",
+    "index.html": "/REACT_REDUCER/index.html",
+    "main.e6c13ad2.css.map": "/REACT_REDUCER/static/css/main.e6c13ad2.css.map",
+    "main.7d13c3d2.js.map": "/REACT_REDUCER/static/js/main.7d13c3d2.js.map",
+    "453.1332818c.chunk.js.map": "/REACT_REDUCER/static/js/453.1332818c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7d13c3d2.js"
+  ]
+}
